@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "audit": "cat /etc/passwd | head -n 5 && ls -la"
+  }
+}
